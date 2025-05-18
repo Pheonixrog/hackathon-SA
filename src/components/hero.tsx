@@ -92,9 +92,7 @@ export default function Hero({ windowWidth, scrollToSection, contactRef }: HeroP
                 <ArrowRight size={16} className="group-hover:translate-x-1 transition-transform" />
               </button>
 
-              <button className="border-2 border-white/30 bg-white/10 backdrop-blur-sm text-white px-4 sm:px-6 py-3 rounded-full hover:bg-white/20 transition-all hover:scale-105 flex items-center gap-2 text-base sm:text-lg">
-                Watch Demo
-              </button>
+            
             </div>
           </div>
 
